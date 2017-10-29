@@ -15,8 +15,12 @@ Cooking on TLUDs leaves behind charcoal (mostly carbon) which has been removed f
 
 ## this one reduces it's level. 
 
-```is this how to make text invisible?
+```
+
+is this how to make text invisible?
 lalala
 
-```[Link](url) and ![Image](src)
+```
+
+[Link](url) and ![Image](src)
 
