@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## The Carbon Shifters
 
-You can use the [editor on GitHub](https://github.com/zorbathegreek/blog2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Are you ready to reduce your carbon footprint? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can either do it yourself (link) or have others do it for you. Be ready to pay them. (link) 
+You can also help others to get started (link) or build your own gasifier (link).
 
-### Markdown
+### Gasification with TLUD gasifiers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cooking on TLUDs leaves behind charcoal (mostly carbon) which has been removed from the athmosphere by trees (or plants in general).
 
-```markdown
-Syntax highlighted code block
+### Burying the charcoal... 
 
-# Header 1
-## Header 2
-### Header 3
+... removes it from the biocycle, and the atmosphere, for hundreds if not thousands of years. Most "Climate Projects"  try to slow down the rise of carbon dioxide...
 
-- Bulleted
-- List
+### this one reduces it's level. 
 
-1. Numbered
-2. List
+```is this how to make text invisible?
 
-**Bold** and _Italic_ and `Code` text
+```[Link](url) and ![Image](src)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zorbathegreek/blog2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
