@@ -11,11 +11,12 @@ Cooking on TLUDs leaves behind charcoal (mostly carbon) which has been removed f
 
 ## Burying the charcoal... 
 
-... removes it from the biocycle, and the atmosphere, for hundreds if not thousands of years. Most "Climate Projects"  try to slow down the rise of carbon dioxide...
+... removes it from the biocycle, and the atmosphere, for hundreds if not thousands of years. Most "Climate Projects"  merely try to slow down the rise of carbon dioxide...
 
-### this one reduces it's level. 
+## this one reduces it's level. 
 
 ```is this how to make text invisible?
+lalala
 
 ```[Link](url) and ![Image](src)
 
