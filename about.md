@@ -3,18 +3,15 @@ layout: page
 title: About
 ---
 
-**Plants** have a great ability: they use photosynthesis to **remove CO2** from the atmosphere, to **build biomass**, and to produce the oxygen we use to breathe, and to keep our industries and vehicles running. Carbon Shifters **use this biomass** by NOT _burning_ it but by **_GASIFYING_** it, because about half the carbon is captured as charcoal that way and **NOT released back into the atmosphere!** 
+We use the brilliant ability of plants to use photosynthesis and **remove CO2** from the atmosphere while building their biomass, and to produce the oxygen we use to breathe, and to keep our industries and vehicles running. 
 
-We **deposit** the resulting char in the **soil** (link Terra preta), and hence **invert the effects of _burning_ fossil oil, gas and coal**. This is the only practicable way to bring the additional **carbon from fossil fuel back into the ground**, for hundreds or thousands of years (link).
+Carbon Shifters prevent **about half of the carbon that is contained in that biomass** to escape back into the atmosphere by the use of **_TLUD-GASIFIERS_**  (link) to produce socalled woodgas to cook food (link), smoke-free, and produce charcoal at the same time. We are disrupting the natural carbon cycle; to counterbalance the problematic excess use of fossil fuel. 
 
-Cooking on gasifers is easy, and even though some of the carbon is not thermally used, it is still more effective than a wood fire. Other industries can follow this example: Bakeries, brick factories, even power generation. 
+Charcoal is a stable material (link), a good ion-exchanger (link), and holds back three times its weight of humidity (link); it greatly improves the properties and fertility potential of soil. That's why we **deposit** the resulting char in the **soil** (link Terra preta), and hence **INVERT the effects of burning fossil oil, gas and coal**.
 
+2 to 3 billion people cook on wood and charcoal; many if not most of them could switch to cook on woodgas. Some have already started through our efforts (links). 
 
+Other industries could follow this example: bakeries, brick factories, even power generation facilities. You could be producing bread, bricks or power, AND charcoal, for sanitation and agriculture. Extra, clean and green business!
 
-Reasons:
-- its great.
-- its a test.
+##If you are busy or involved into one of these industries, don't hesitate to join us! 
 
-## Other thoughts
-
-This is great.
