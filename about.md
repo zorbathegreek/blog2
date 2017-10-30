@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-We use the brilliant ability of plants to use photosynthesis and **remove CO2** from the atmosphere while building their biomass, and to produce the oxygen we use to breathe, and to keep our industries and vehicles running. 
+We use the brilliant ability of **plants** to use photosynthesis and **remove CO2** from the atmosphere while building their biomass, and to produce the oxygen we use to breathe, and to keep our industries and vehicles running. 
 
 Carbon Shifters prevent **about half of the carbon that is contained in that biomass** to escape back into the atmosphere by the use of **_TLUD-GASIFIERS_**  (link) to produce socalled woodgas to cook food (link), smoke-free, and produce charcoal at the same time. We are disrupting the natural carbon cycle; to counterbalance the problematic excess use of fossil fuel. 
 
