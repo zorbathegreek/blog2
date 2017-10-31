@@ -1,6 +1,5 @@
 ---
-layout: post
-title: October Post Series
+layout: posts
 ---
 
 This is one post from this series.
