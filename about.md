@@ -9,5 +9,5 @@ Charcoal greatly improves the properties and the fertility potential of soil; it
 
 Billions of people cook on wood and charcoal today, depleting natural wood sources; many could switch to cooking on woodgas. Some have already started through our efforts (links). But other industries could follow: bakeries, brick factories, even power generation facilities, and more. They could be producing bread, bricks, power, ... and charcoal, for sanitation and agriculture, as an extra, clean and green business!
 
-##If you are busy or involved into one of these industries, don't hesitate to join us! (link)
+## If you are busy or involved into one of these industries, don't hesitate to join us! (link)
 
