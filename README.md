@@ -1,6 +1,6 @@
-# The Carbon Shifters are burying carbon
+# The Carbon Shifters
 
-and now you can start reducing your carbon footprint, too!
+are burying carbon, and now you can start reducing your carbon footprint, too!
 
 You can either do it yourself (link) or have others do it for you. (link) 
 You can also help others to get started (link), build your own gasifier device (link), sponsor building classes, ...
