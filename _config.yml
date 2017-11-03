@@ -9,4 +9,5 @@ github_username:  zorbathegreek
 # Build settings
 markdown: kramdown
 theme: minima
-gems: - jekyll-sitemap
+gems: 
+  - jekyll-sitemap
