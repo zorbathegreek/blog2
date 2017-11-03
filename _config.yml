@@ -10,4 +10,4 @@ github_username:  zorbathegreek
 markdown: kramdown
 theme: minima
 gems: 
-  - jekyll-sitemap
+     - jekyll-sitemap
